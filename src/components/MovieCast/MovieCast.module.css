@@ -1,0 +1,41 @@
+.cast {
+  padding: 20px;
+  color: #dcdcdc
+}
+
+.castList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.castItem {
+  width: 120px;
+  text-align: center;
+}
+
+.castImage {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.noImage {
+  width: 100%;
+  height: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #dcdcdc;
+  border-radius: 8px;
+  color: #181818;
+}
+
+.castName {
+  margin-top: 8px;
+  font-size: 14px;
+  font-weight: bold;
+}

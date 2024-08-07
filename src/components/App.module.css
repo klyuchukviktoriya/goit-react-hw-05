@@ -1,0 +1,10 @@
+.container {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.suspenseFallback {
+    font-size: 32px;
+    color: #2c2c2c;
+    margin: 40px auto;
+}
